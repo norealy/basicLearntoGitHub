@@ -151,17 +151,18 @@ Lời trích dẫn  :
 dấu gạch nối `-`  chia cách phần tên cột và nội dung, nội dung các cột chia cách bởi `|`
 
 Eg:
-Tiêu đề 1 | Tiêu đề 2
--|-
-Nội dung bên trái|Nội dung bên phải
-Nội dung bên trái next|Nội dung bên phải next
+
+| Tiêu đề 1 | Tiêu đề 2 |
+|-----------|-----------|
+| Nội dung bên trái | Nội dung bên phải |
+| Nội dung bên trái next | Nội dung bên phải next |
 
 Cách viết
 ```
-Tiêu đề 1 | Tiêu đề 2
--|-
-Nội dung bên trái|Nội dung bên phải
-Nội dung bên trái next|Nội dung bên phải next
+| Tiêu đề 1 | Tiêu đề 2 |
+|-----------|-----------|
+| Nội dung bên trái | Nội dung bên phải |
+| Nội dung bên trái next | Nội dung bên phải next |
 ```
 
 # Also
