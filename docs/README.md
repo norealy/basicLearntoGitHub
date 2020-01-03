@@ -16,7 +16,9 @@ Github là một hệ thống quản lý dự án và phiên bản code, hoạt 
 
 # Sự khác nhau cơ bản
 ---
- Git(Thực thi tại local )-GitHub(Kho lưu trữ )-GitLab(Giong với GitHub nhưng open sourse)
+ * Git (Thực thi tại local )
+ * GitHub (Kho lưu trữ )
+ * GitLab (Giong với GitHub nhưng open sourse)
 
 
 # Các lệnh thường dùng 
