@@ -32,4 +32,4 @@ Github là một hệ thống quản lý dự án và phiên bản code, hoạt 
 
 # Vòng đời của `Git` 
 ---
-![LifeCycle](https://www.google.com.vn/search?safe=active&biw=1871&bih=900&tbm=isch&sxsrf=ACYBGNS8C-3MeKKENCJX9BPA4Yk-kvqQqw%3A1578023620024&sa=1&ei=xLoOXrKGAbGymAW5773YCA&q=life+cycle+git&oq=life+cycle+git&gs_l=img.3..0i8i30l4.7835.8475..8674...0.0..0.185.953.0j6......0....1..gws-wiz-img.......0i67j0j0i19.3-PKg_Lxmi4&ved=0ahUKEwiy-MWKxObmAhUxGaYKHbl3D4sQ4dUDCAc&uact=5#imgrc=XJpRtwdu0srZiM:)
+![LifeCycle](https://git-scm.com/book/en/v2/images/lifecycle.png)
