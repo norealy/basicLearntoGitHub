@@ -6,7 +6,7 @@
 # Tóm tắt
 
 1. Basic Commands
-2. [Working with files]()
+2. [Working with files](https://github.com/norealy/basicLearntoGitHub/blob/master/docs/Linux_tutorial/Working%20with%20files.md)
 3. [File System]()
 4. [File Permissions]()
 5. Package Management
