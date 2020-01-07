@@ -6,18 +6,18 @@
 # Tóm tắt
 
 1. Basic Commands
-2. Working with files
-3. File System
-4. File Permissions
+2. [Working with files]()
+3. [File System]()
+4. [File Permissions]()
 5. Package Management
 6. Data Backup
 7. System Info
 8. Swap Memory
 9. User Envinronment
 10. Processes
-11. Volume Manager Basics
+11. [Volume Manager Basics(LVM)]()
 12. Advanced Volume Manager
-13. Networking
+13. [Networking]()
 14. Network File System
 15. ISCSI
 16. Security
