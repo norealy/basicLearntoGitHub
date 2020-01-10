@@ -41,4 +41,13 @@ $ git remote add mybaby https://github.com/norealy/basicLearntoGitHub
 ```
 $ git remote -v
 ```
+lấy dữ liệu từ cái `mybaby` kia về thì chỉ cần sử dụng lệnh `$git fetch mybaby`
 
+# Sự khác nhau giữa `clone`, `fetch` và `pull`
+Cả ba loại đều là lấy dữ liệu:
+
+`git clone` : Sao chép toàn bộ dữ liệu trên repository và cả thiết lập nữa. Thường sử dụng khi lấy dữ liệu từ 1 Git mới về.
+
+`git pull` lấy toàn bộ dữ liệu remote repostorty gộp vào cái branch đang làm việc( ĐỒng bộ từ git về).
+
+`git fetch` Lấy toàn bộ dữ liệu từ remote repostory nhưng cho phép gộp thủ công vào branch nào đó trên thư mục GIt ở máy tính.
