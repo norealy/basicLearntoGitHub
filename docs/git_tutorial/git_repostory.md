@@ -21,12 +21,12 @@ Bước 3: Tạo local repository
 
 `Thao tác tạo remote repostory:`
 ```
-# Cấu hình username và email cho repo
+# Cấu hình username và email cho repostory
 $ git config --global user.name 'what is the name'
 $ git config --global user.email "what is the gmail"
  
-# Tạo local repo
-# git init
+# Tạo local repostory
+$ git init
 ```
 # Liên kết local repostory với github
 
