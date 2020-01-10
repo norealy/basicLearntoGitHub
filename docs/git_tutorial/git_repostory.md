@@ -19,7 +19,7 @@ Bước 2: Cấu hình username và email
 
 Bước 3: Tạo local repository
 
-`Thao tác tạo remote repo:`
+`Thao tác tạo remote repostory:`
 ```
 # Cấu hình username và email cho repo
 $ git config --global user.name 'what is the name'
@@ -28,9 +28,9 @@ $ git config --global user.email "what is the gmail"
 # Tạo local repo
 # git init
 ```
-# Liên kết local repot với github
+# Liên kết local repostory với github
 
-- Thêm remote repo :
+- Thêm remote repostory :
 
 ```
 $ git remote add mybaby https://github.com/norealy/basicLearntoGitHub
