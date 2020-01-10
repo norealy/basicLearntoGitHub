@@ -1,4 +1,4 @@
-# Cấu hình IP tĩnh
+# Cấu hình IP tĩnh CentOS7
 ---
 
 1. Sau khi login hệ thống chúng ta vào thư mục sau: /etc/sysconfig/network-scripts/  bằng lệnh:
